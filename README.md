@@ -1,0 +1,2 @@
+# parcial
+proyecto investigacion
