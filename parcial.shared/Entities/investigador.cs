@@ -11,7 +11,7 @@ namespace parcial.shared.Entities
       public int Id { get; set; }
      public string Nombre { get; set; } = null;
      public string AfiliacionInstitucional { get; set; } = null;
-     public string Especializacion = null;
+     public string Especializacion { get; set; } = null;
      public string Rol { get; set; } = null;
      
 
